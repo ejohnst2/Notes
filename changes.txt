@@ -1,0 +1,26 @@
+Spark hot keys
+- ctrl + `
+  - iTerm
+- ctrl + 1
+  - VSCode
+- ctrl + 2
+  - Chrome
+- ctrl + s
+  - Slack
+- ctrl + h
+  - Spark (Hotkey manager)
+- crtl + m
+  - Spotify
+
+---
+
+- disable caps lock
+
+---
+@todo
+
+- vscode init
+  - Plugins
+vim-adventures
+Troveko README init
+Notes open source self repo
