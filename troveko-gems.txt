@@ -1,0 +1,28 @@
+[200~echo "gem 'rspec-rails', group: [ :test ]" >> Gemfile
+echo "gem 'rails-controller-testing', group: [ :test ]" >> Gemfile
+echo "gem 'rails-controller-testing', group: [ :test ]" >> Gemfile\n
+echo "gem 'rails-controller-testing', group: [ :test ]" >> Gemfile\n
+echo "gem 'rspec-rails', group: [ :test ]" >> Gemfile
+echo "gem 'rspec-rails', group: [ :test ]" >> Gemfile\n
+echo "gem 'rspec-rails', group: [ :test ]" >> Gemfile\n
+gem install activerecord\n
+gem install bundler
+gem install bundler\n
+gem install bundler\n
+gem install bundler\n
+gem install byebug
+gem install faker
+gem install faker\n
+gem install hub\n
+gem install middleman
+gem install nokogiri
+gem install pry-byebug\n
+gem install rails -v 5.0
+gem install rest-client\n
+gem install rspec rubocop pry pry-byebug hub colored octoki
+gem install rspec rubocop pry pry-byebug hub colored octokit\n
+gem install sqlite3\n
+gem install telegram-bot-ruby
+install gem pry-byebug
+install gem sinatra
+sudo gem install rails
